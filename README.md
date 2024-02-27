@@ -1,4 +1,4 @@
-Author:- Anuj Verma
+## Author:- Anuj Verma
 
 # Integrating Jaeger Tracing with Express Node.js Application
 
