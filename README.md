@@ -1,8 +1,4 @@
-Below is a sample README file explaining how to use Jaeger with an Express Node.js application:
-
----
-
-## Author Anuj Verma
+Author:- Anuj Verma
 
 # Integrating Jaeger Tracing with Express Node.js Application
 
